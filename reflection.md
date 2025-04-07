@@ -42,7 +42,3 @@ Advice for future students
 Follow the rubric closely and make sure every requirement is explicitly demonstrated.
 
 Test every class with realistic scenarios — especially method overriding — and don’t skip writing main() methods.
-
-Be very careful when chaining constructors. Define the full one first if you’re going to call it from a simpler one.
-
-When something behaves weirdly (like contains() or == not working), it’s probably because of how Java handles object identity vs. value equality.
